@@ -1,3 +1,6 @@
+# You can see the application screenshots in app-screenshots folder
+
+
 # Clone the app
 1) git clone git@github.com:harshareddyharish/liorel-react.git
 
@@ -9,3 +12,4 @@
 
 # Start the server by using below command
 4) yarn start
+
